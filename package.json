@@ -23,9 +23,6 @@
     "url": "https://github.com/laysent/remark-ruby/issues"
   },
   "homepage": "https://github.com/laysent/remark-ruby#readme",
-  "peerDependencies": {
-    "remark-parse": "^9.0.0"
-  },
   "files": [
     "index.js",
     "index.d.ts",
